@@ -1,5 +1,14 @@
-# Códigos dos projetos com arduino
+# Códigos dos projetos com Arduino
 
-[![Ardu5 Robô](imagens/ardu5DarthVader.jpg)](Caveira Animatrônica)
 
-[![Caveira Animatrônica](imagens/CaveiraAnimatronica.jpg)](Ardu5 Robô)
+
+[Códigos Ardu5](/Ardu5%20Robô/)  
+<img src="imagens/ardu5DarthVader.jpg" alt="Ardu5 Robô" width="500">
+
+
+[Códigos Caveira Animatrônica](Caveira%20Animatrônica/)  
+<img src="imagens/CaveiraAnimatronica.jpg" alt="Caveira Animatrônica" width="500">
+
+
+
+
